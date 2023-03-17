@@ -1,16 +1,20 @@
+<p align="center"><a href="https://github.com/ai-winter"><img width="80%" alt="Hello, I'm Winter. Welcome to my page!" src="./assets/cover.png" /></a></p>
 
-# 😄 Welcome to my page!
+<br />
+
+<p align="center">
+  <a href="https://blog.csdn.net/FRIGIDWINTER"><img  width="100px" src="https://img.shields.io/badge/csdn-mr_winter-orange?csdn=mr-winter" alt="csdn"/></a>
+  <a href="https://github.com/ai-winter/ai-winter/blob/main/assets/qr_code.jpg"><img width="100px" src="https://img.shields.io/badge/wechat-Winter-brightgreen?wechat=Winter" alt="wechat"/></a>
+ </p>
+
 
 
 **About me**
 
 - 📝 Graduated from Control Science and Engineering, Tongji University
-- 🎈 I am interested in `Robotic Motion Planning and Navigation`、 `Deep Reinforcement Learning`、 `Machine Learning`...
+- 😄 I am interested in `Robotic Motion Planning and Navigation`、 `Deep Reinforcement Learning`、 `Machine Learning`...
 
-<p align="center">
-  <a href="https://blog.csdn.net/FRIGIDWINTER"><img src="https://img.shields.io/badge/csdn-mr_winter-orange?csdn=mr-winter" alt="csdn"/></a>
-  <a href="https://blog.csdn.net/FRIGIDWINTER"><img src="https://img.shields.io/badge/wechat-Winter-brightgreen?wechat=Winter" alt="wechat"/></a>
- </p>
+
 
 
 | <a href="https://github.com/ai-winter"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ai-winter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ai-winter"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-winter&layout=compact&theme=buefy&hide_border=true" /></a> |
