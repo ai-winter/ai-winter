@@ -2,8 +2,9 @@
 
 
 <p align="center">
-  <a href="https://blog.csdn.net/FRIGIDWINTER"><img  width="100px" src="https://img.shields.io/badge/csdn-mr_winter-orange?csdn=mr-winter" alt="csdn"/></a>
-  <a href="https://github.com/ai-winter/ai-winter/blob/main/assets/qr_code.jpg"><img width="100px" src="https://img.shields.io/badge/wechat-Winter-brightgreen?wechat=Winter" alt="wechat"/></a>
+  <a href="https://blog.csdn.net/FRIGIDWINTER"><img  width="100px" src="https://img.shields.io/badge/csdn-mr_winter-orange?logo=SparkPost&csdn=mr-winter" alt="csdn"/></a>
+  <a href="https://github.com/ai-winter/ai-winter/blob/main/assets/qr_code.jpg"><img width="100px" src="https://img.shields.io/badge/wechat-Winter-brightgreen?logo=WeChat&wechat=Winter" alt="wechat"/></a>
+    <a href="https://github.com/ai-winter/ai-winter/blob/main/assets/qr_code.jpg"><img width="100px" src="https://img.shields.io/badge/github-ai_winter-blueviolet?logo=Github&github=ai-winter" alt="github"/></a>
  </p>
 
 ---
