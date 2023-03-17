@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/ai-winter"><img width="80%" alt="Hello, I'm Winter. Welcome to my page!" src="./assets/cover.png" /></a></p>
+<p align="center"><a href="https://github.com/ai-winter"><img width="80%" alt="Hello, I'm Winter. Welcome to my page!" src="./assets/my_cover.png" /></a></p>
 
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-**About me**
+### About me
 
 - 📝 Graduated from Control Science and Engineering, Tongji University
 - 😄 I am interested in `Robotic Motion Planning and Navigation`、 `Deep Reinforcement Learning`、 `Machine Learning`...
@@ -19,7 +19,8 @@
 | <a href="https://github.com/ai-winter"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ai-winter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ai-winter"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-winter&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-**Top Repositories**
+### Top Repositories
+
 
 
 <a href="https://github.com/ai-winter/ros_motion_planning">
