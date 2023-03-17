@@ -1,4 +1,17 @@
 
+# 😄 Welcome to my page!
+
+
+**About me**
+
+- 📝 Graduated from Control Science and Engineering, Tongji University
+- 🎈 I am interested in `Robotic Motion Planning and Navigation`、 `Deep Reinforcement Learning`、 `Machine Learning`...
+
+<p align="center">
+  <a href="https://blog.csdn.net/FRIGIDWINTER"><img src="https://img.shields.io/badge/csdn-mr_winter-orange?csdn=mr-winter" alt="csdn"/></a>
+  <a href="https://blog.csdn.net/FRIGIDWINTER"><img src="https://img.shields.io/badge/wechat-Winter-brightgreen?wechat=Winter" alt="wechat"/></a>
+ </p>
+
 
 | <a href="https://github.com/ai-winter"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ai-winter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ai-winter"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-winter&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -6,7 +19,7 @@
 #### Top Repositories
 
 
-<a href="https://github.com/ai-winter">
+<a href="https://github.com/ai-winter/ros_motion_planning">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ai-winter&repo=ros_motion_planning&theme=buefy" />
 </a>
 
