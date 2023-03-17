@@ -7,10 +7,7 @@
 
 
 <a href="https://github.com/ai-winter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ai-winter&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/ai-winter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ai-winter&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ai-winter&repo=ros_motion_planning&theme=buefy" />
 </a>
 
 <!--
