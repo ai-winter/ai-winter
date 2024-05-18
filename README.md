@@ -19,7 +19,7 @@
 
 
 
-| <a href="https://github.com/ai-winter"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ai-winter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ai-winter"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-winter&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ai-winter"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ai-winter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&cache_seconds=3600" alt="Winter's github stats" /></a> | <a href="https://github.com/ai-winter"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-winter&layout=compact&theme=buefy&hide_border=true&cache_seconds=3600" /></a> |
 | ------------- | ------------- |
 
 ### Top Repositories
