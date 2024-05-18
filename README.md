@@ -5,6 +5,8 @@
   <a href="https://blog.csdn.net/FRIGIDWINTER"><img  width="100px" src="https://img.shields.io/badge/csdn-mr_winter-orange?logo=SparkPost&csdn=mr-winter" alt="csdn"/></a>
   <a href="https://github.com/ai-winter/ai-winter/blob/main/assets/qr_code.jpg"><img width="100px" src="https://img.shields.io/badge/wechat-Winter-brightgreen?logo=WeChat&wechat=Winter" alt="wechat"/></a>
     <a href="https://github.com/ai-winter"><img width="100px" src="https://img.shields.io/badge/github-ai_winter-blueviolet?logo=Github&github=ai-winter" alt="github"/></a>
+        <a href="https://space.bilibili.com/384406436"><img width="100px" src="https://img.shields.io/badge/bilibili-mr_winter-df7298?logo=bilibili&bilibili=mr_winter" alt="bilibili"/></a>
+                <a href="https://www.zhihu.com/people/tuolucky/zvideos"><img width="100px" src="https://img.shields.io/badge/zhihu-mr_winter-blue?logo=zhihu&zhihu=Winter" alt="zhihu"/></a>
  </p>
 
 ---
